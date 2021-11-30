@@ -1,0 +1,6 @@
+framework module Pods_ExTodo_ExTodoUITests {
+  umbrella header "Pods-ExTodo-ExTodoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
